@@ -32,4 +32,4 @@ Surabaya related
 | Dinas Komunikasi dan Informatika Provinsi Jawa Timur | https://kominfo.jatimprov.go.id/ | |
 | SIPP - Pengadilan Negeri Surabaya | https://sipp.pn-surabayakota.go.id/ | |
 | WIKI Surabaya  | https://en.wikipedia.org/wiki/Surabaya | |
-|  | | |
+| E – SAMSAT | https://samsatsurabayatimur.dipendajatim.go.id/pelayanan/e-samsat/ | |
